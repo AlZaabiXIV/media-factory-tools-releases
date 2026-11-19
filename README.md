@@ -38,7 +38,7 @@ Needs about 1 GB of free space (more for the optional AI extras). An NVIDIA grap
 | Platform | Status |
 |---|---|
 | 🪟 Windows 10 / 11 | ✅ [Available](https://github.com/AlZaabiXIV/media-factory-tools-releases/releases/latest) |
-| 🤖 Android (MFT Mobile) | 🔜 Coming soon |
+| 🤖 Android 10+ (MFT Mobile) | 🔜 Arrives with the next stable version (the `MFT-X.apk` file under *Assets*) |
 
 ## Good to know
 
@@ -51,5 +51,9 @@ Needs about 1 GB of free space (more for the optional AI extras). An NVIDIA grap
 
 This repository only holds the finished, stable releases and their notes. Videos, announcements and everything else
 are on the **[official website](https://alzaabixiv.github.io/media-factory-tools/)**.
+
+## Contact us
+
+Problems, ideas or questions? **[Contact us](mailto:sinistero.digital.co@gmail.com?subject=The%20Media%20Factory%20Tools%3A%20)**.
 
 <p align="center">© 2026 Sinistero · Made in the UAE</p>
